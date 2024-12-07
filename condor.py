@@ -22,7 +22,7 @@ def banner():
     ░                             ░                        
 
                         {Fore.LIGHTRED_EX}[{Fore.LIGHTWHITE_EX}Condor v2.2{Fore.LIGHTRED_EX}]
-                    {Fore.LIGHTRED_EX}[{Fore.LIGHTWHITE_EX}Developed by MrEmpy{Fore.LIGHTRED_EX}]
+                    {Fore.LIGHTRED_EX}[{Fore.LIGHTWHITE_EX}Developed by Brosck{Fore.LIGHTRED_EX}]
 
 ''')
 
